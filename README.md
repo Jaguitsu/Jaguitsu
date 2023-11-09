@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaguitsu
 - 👀 I’m interested in front-end area
-- 🌱 I’m currently learning HTML, JavaScript and CSS
-- 💞️ I’m looking to collaborate on Work(?)
+- 🌱 I’m currently learning HTML, JavaScript, CSS, JAVA, NodeJs, Python and a little of Ruby.
+- 💞️ I’m looking to learn more about basically everything.
 - 📫 How to reach me: guilhermeoficial875@gmail.com
 
 <!---
